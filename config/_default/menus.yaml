@@ -1,0 +1,15 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: f395dc0f-80bb-48c3-6c97-a90fe7f63f02
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b5070277-ae3b-99a3-a1bb-acf3890ee45e
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 8deb8327-445d-af7e-fe3a-e53957d9bdaa
+  name: Labs
+  pageRef: /pages/labs
+  weight: 30
